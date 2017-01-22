@@ -1,3 +1,2 @@
 # Exercise-Repo
-This project will contain...
-Repository made for exercise and testing.
+This project will contain...Repostory made for exercise.
